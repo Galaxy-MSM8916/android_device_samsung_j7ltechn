@@ -9,21 +9,16 @@ etc/Speaker_cal.acdb
 
 # RIL
 bin/rild
-
 lib/libril.so
 lib/librilutils.so
 lib/libsec-ril.so
 
-
 # Sensors
 lib/hw/sensors.msm8916.so
-
 vendor/lib/libcalmodule_gyroscope.so
 
 # Mobicore
 app/mcRegistry/07010000000000000000000000000000.tlbin
 app/mcRegistry/07050500000000000000000000000000.tlbin
-
 bin/mcDriverDaemon
-
 lib/libMcRegistry.so
