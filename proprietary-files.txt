@@ -20,5 +20,3 @@ vendor/lib/libcalmodule_gyroscope.so
 # Mobicore
 app/mcRegistry/07010000000000000000000000000000.tlbin
 app/mcRegistry/07050500000000000000000000000000.tlbin
-bin/mcDriverDaemon
-lib/libMcRegistry.so
