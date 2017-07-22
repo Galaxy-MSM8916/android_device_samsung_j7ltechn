@@ -1,4 +1,4 @@
-#Inherit from vendor
+# Inherit from vendor
 $(call inherit-product-if-exists, vendor/samsung/j7ltechn/j7ltechn-vendor.mk)
 
 # Inherit from common
@@ -11,3 +11,7 @@ LOCAL_PATH := device/samsung/j7ltechn
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
+
+# RIL
+PRODUCT_PACKAGES += \
+	libril_shim
