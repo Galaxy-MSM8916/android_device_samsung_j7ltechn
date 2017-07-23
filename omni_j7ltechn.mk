@@ -3,7 +3,7 @@ $(call inherit-product, device/samsung/j7lte-common/omni.mk)
 
 $(call inherit-product, device/samsung/j7ltechn/device.mk)
 
-## Device identifier. This must come after all inclusions
+# Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := j7ltechn
 PRODUCT_NAME := omni_j7ltechn
 PRODUCT_BRAND := samsung
