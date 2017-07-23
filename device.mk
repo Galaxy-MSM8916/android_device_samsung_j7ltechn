@@ -1,4 +1,4 @@
-#Inherit from vendor
+# Inherit from vendor
 $(call inherit-product-if-exists, vendor/samsung/j7ltespr/j7ltespr-vendor.mk)
 
 # Inherit from common

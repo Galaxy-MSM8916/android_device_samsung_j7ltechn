@@ -1,8 +1,6 @@
 # Inherit from common
 include device/samsung/j7lte-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/j7ltespr
-
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := j7ltespr,J700P,SM-J700P
 

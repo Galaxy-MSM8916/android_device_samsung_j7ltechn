@@ -7,6 +7,10 @@ etc/Hdmi_cal.acdb
 etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
+# Mobicore
+app/mcRegistry/07010000000000000000000000000000.tlbin
+app/mcRegistry/07050500000000000000000000000000.tlbin
+
 # RIL
 bin/rild
 lib/libril.so
@@ -16,7 +20,3 @@ lib/libsec-ril.so
 # Sensors
 lib/hw/sensors.msm8916.so
 vendor/lib/libcalmodule_gyroscope.so
-
-# Mobicore
-app/mcRegistry/07010000000000000000000000000000.tlbin
-app/mcRegistry/07050500000000000000000000000000.tlbin
