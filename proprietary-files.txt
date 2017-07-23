@@ -11,6 +11,10 @@ etc/Speaker_cal.acdb
 app/mcRegistry/07010000000000000000000000000000.tlbin
 app/mcRegistry/07050500000000000000000000000000.tlbin
 
+bin/mcDriverDaemon
+
+lib/libMcRegistry.so
+
 # RIL
 bin/rild
 lib/libril.so
