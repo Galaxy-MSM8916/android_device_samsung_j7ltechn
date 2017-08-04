@@ -23,4 +23,8 @@ export DEVICE=j7ltespr
 export DEVICE_COMMON=j7lte-common
 export VENDOR=samsung
 
+export SETUP_DEVICE_DIR=1
+export SETUP_DEVICE_COMMON_DIR=0
+export SETUP_BOARD_COMMON_DIR=0
+
 ./../../$VENDOR/$DEVICE_COMMON/setup-makefiles.sh $@
