@@ -4,9 +4,6 @@ include device/samsung/j7lte-common/BoardConfigCommon.mk
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := j7ltechn,j7ltezm,J7008,SM-J7008
 
-# Audio
-AUDIO_FEATURE_SAMSUNG_DUAL_SIM := true
-
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8929_sec_j7_chncmcc_defconfig
 
