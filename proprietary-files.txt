@@ -16,9 +16,6 @@ bin/mcDriverDaemon
 lib/libMcRegistry.so
 
 # RIL
-bin/rild
-lib/libril.so
-lib/librilutils.so
 lib/libsec-ril.so|c0babdc078afccadbbbaa4d5777a21c0
 
 # Sensors
