@@ -8,9 +8,6 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
 # RIL
-bin/rild
-lib/libril.so
-lib/librilutils.so
 lib/libsec-ril.so|80ea963ec4424c4d9e7800da67512f46
 lib/libsec-ril-dsds.so|843ac76cf7539fc4aa7cb74e65415615
 
