@@ -8,7 +8,8 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
 # RIL
-lib/libsec-ril.so|c0babdc078afccadbbbaa4d5777a21c0
+lib/libprotobuf-cpp-lgcy.so|2d83260039a5b8c77ca86c3e8697e24d8d579efe
+lib/libsec-ril.so|83d2b1e5845141771ace6e4fb2679e6debf912e4
 
 # Sensors
 lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so
