@@ -12,7 +12,7 @@ lib/libsec-ril.so|80ea963ec4424c4d9e7800da67512f46
 lib/libsec-ril-dsds.so|843ac76cf7539fc4aa7cb74e65415615
 
 # Sensors
-lib/hw/sensors.msm8916.so
+lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so
 
 # Qualcomm Framework
 vendor/lib/libdiag.so
