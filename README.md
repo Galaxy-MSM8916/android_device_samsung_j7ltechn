@@ -1,7 +1,7 @@
-Device Tree for Samsung Galaxy J7 (j7ltespr)
+Device Tree for Samsung Galaxy J7 (j7ltechn)
 ==============================================
 
-The Galaxy J7 (codenamed _"j7ltespr"_) is a mid-range smartphone from Samsung Electronics.
+The Galaxy J7 (codenamed _"j7ltechn"_) is a mid-range smartphone from Samsung Electronics.
 It was released on June, 2015.
 
 Basic   | Spec Sheet
@@ -10,7 +10,7 @@ CPU     | 4 Cortex-A53 cores clocked at 1.5 GHz & 4 other Cortex-A53 cores clock
 Chipset | Qualcomm MSM8929 Snapdragon 415
 GPU     | Adreno 405
 Memory  | 1.5 GB RAM
-Android Version | 6.0.1
+Android Version | 5.1.1
 Storage | 16 GB
 MicroSD | Up to 32 GB
 Battery | Removable Li-Ion 3000mAh battery

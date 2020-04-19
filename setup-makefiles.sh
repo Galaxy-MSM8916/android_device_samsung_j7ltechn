@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=j7ltespr
+export DEVICE=j7ltechn
 export DEVICE_COMMON=j7lte-common
 export VENDOR=samsung
 
