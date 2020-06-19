@@ -14,4 +14,5 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 	ro.multisim.simslotcount=2 \
 	ro.telephony.ril.config=simactivation \
 	persist.radio.multisim.config=dsds \
-	rild.libpath2=/system/lib/libsec-ril-dsds.so
+	rild.libpath2=/system/lib/libsec-ril-dsds.so \
+	ro.multisim.audio_follow_default_sim=false
