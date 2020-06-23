@@ -17,9 +17,9 @@ etc/Speaker_cal.acdb
 # Sensors from J7008ZMS1ARH2 (Android 5.1)
 lib/hw/sensors.vendor.msm8916.so|28eb86c471160a26f21fb5455c8996d80a459ab9
 
-# RIL from J7008ZMS1ARH2 (Android 5.1)
-lib/libsec-ril-dsds.so
-lib/libsec-ril.so
+# RIL from j5ltechn
+lib/libsec-ril-dsds.so|a261897ac6b6679443d5821b4e250c61a8568413
+lib/libsec-ril.so|9186d9bf37eb377db28cb17b4572071070a898c2
 
 # Camera from J7008ZMS1ARH2 (Android 5.1)
 etc/T13QL_s5k3l2xx_module_info.xml|5d4f46323c277a0aaa22df32b7991c08e12c7f86
